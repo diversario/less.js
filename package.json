@@ -11,6 +11,6 @@
   "directories"   : { "test": "./test" },
   "dependencies": {
     "mkdirp": "0.2.x"
-  }
+  },
   "engines"       : { "node": ">=0.4.0" }
 }
